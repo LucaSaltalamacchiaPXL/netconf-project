@@ -1,0 +1,31 @@
+<native xmlns="http://cisco.com/ns/yang/Cisco-IOS-XE-native">
+
+    <hostname>CSR-LUCA</hostname>
+
+    <interface>
+        <GigabitEthernet>
+            <name>0/0/0</name>
+            <ip>
+                <address>
+                    <primary>
+                        <address>192.168.50.1</address>
+                        <mask>255.255.255.0</mask>
+                    </primary>
+                </address>
+            </ip>
+        </GigabitEthernet>
+
+        <GigabitEthernet>
+            <name>0/0/1</name>
+            <ip>
+                <address>
+                    <primary>
+                        <address>10.0.0.1</address>
+                        <mask>255.255.255.0</mask>
+                    </primary>
+                </address>
+            </ip>
+        </GigabitEthernet>
+    </interface>
+
+</native>
