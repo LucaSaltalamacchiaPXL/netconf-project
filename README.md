@@ -48,8 +48,3 @@ Dit project automatiseert de configuratie van Cisco IOS-XE routers met behulp va
 Een visueel overzicht van de end-to-end workflow kan hier worden toegevoegd:
 
 ![Flowchart](docs/flowchart.png)
-
-## Gebruikersinstructies
-1. Installeer Python 3 en benodigde libraries:
-```bash
-pip install ncclient requests
