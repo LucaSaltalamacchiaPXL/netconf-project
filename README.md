@@ -47,4 +47,4 @@ Dit project automatiseert de configuratie van Cisco IOS-XE routers met behulp va
 ## Flowchart
 Een visueel overzicht van de end-to-end workflow kan hier worden toegevoegd:
 
-![Flowchart](docs/flowchart.png)
+<img width="542" height="1261" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/a1117e8a-463b-458c-876d-2ac8ad6242a1" />
