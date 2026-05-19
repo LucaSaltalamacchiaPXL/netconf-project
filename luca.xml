@@ -21,7 +21,7 @@
                 <address>
                     <primary>
                         <address>10.0.0.1</address>
-                        <mask>255.255.255.0</mask>
+                        <mask>255.255.255.255</mask>
                     </primary>
                 </address>
             </ip>
